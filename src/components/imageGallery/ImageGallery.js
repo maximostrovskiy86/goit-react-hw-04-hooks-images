@@ -2,7 +2,7 @@ import React, {useState, useEffect} from "react";
 import style from "./ImageGallery.module.scss";
 import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
 import PropTypes from 'prop-types';
-import ImageGalleryItem from "./imageGalleryItem/ImageGalleryItem";
+import ImageGalleryItem from "../imageGalleryItem/ImageGalleryItem";
 import Button from "../button/Button";
 import Modal from "../modal/Modal";
 import imagesApi from "../../services/Api";
