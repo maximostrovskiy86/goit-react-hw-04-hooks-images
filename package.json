@@ -2,7 +2,7 @@
   "name": "goit-react-hw-03-image-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maximostrovskiy86.github.io/goit-react-hw-04-hooks-images",
+  "homepage": "https://maximostrovskiy86.github.io/react-Image-search-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",

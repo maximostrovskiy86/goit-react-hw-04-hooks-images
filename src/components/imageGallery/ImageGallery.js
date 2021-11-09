@@ -48,7 +48,7 @@ const ImageGallery = ({inputValue}) => {
         if (inputValue === '') {
             return;
         }
-        setLoading(true)
+        setLoading(true);
         getImages(inputValue);
     }, [inputValue]);
 
@@ -57,7 +57,7 @@ const ImageGallery = ({inputValue}) => {
         if (page === 1) {
             return;
         }
-        setLoading(true)
+        setLoading(true);
         getImages(inputValue, page);
     }, [page, inputValue]);
 
