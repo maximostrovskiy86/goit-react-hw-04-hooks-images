@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-Image-search-app/static/css/main.d7c0837f.chunk.css",
-    "main.js": "/react-Image-search-app/static/js/main.9cab68ed.chunk.js",
-    "main.js.map": "/react-Image-search-app/static/js/main.9cab68ed.chunk.js.map",
-    "runtime-main.js": "/react-Image-search-app/static/js/runtime-main.b3eb5cc9.js",
-    "runtime-main.js.map": "/react-Image-search-app/static/js/runtime-main.b3eb5cc9.js.map",
-    "static/css/2.ab75b8d7.chunk.css": "/react-Image-search-app/static/css/2.ab75b8d7.chunk.css",
-    "static/js/2.b2e14782.chunk.js": "/react-Image-search-app/static/js/2.b2e14782.chunk.js",
-    "static/js/2.b2e14782.chunk.js.map": "/react-Image-search-app/static/js/2.b2e14782.chunk.js.map",
-    "index.html": "/react-Image-search-app/index.html",
-    "static/css/2.ab75b8d7.chunk.css.map": "/react-Image-search-app/static/css/2.ab75b8d7.chunk.css.map",
-    "static/css/main.d7c0837f.chunk.css.map": "/react-Image-search-app/static/css/main.d7c0837f.chunk.css.map",
-    "static/js/2.b2e14782.chunk.js.LICENSE.txt": "/react-Image-search-app/static/js/2.b2e14782.chunk.js.LICENSE.txt"
+    "main.css": "/react-image-search-app/static/css/main.d7c0837f.chunk.css",
+    "main.js": "/react-image-search-app/static/js/main.9cab68ed.chunk.js",
+    "main.js.map": "/react-image-search-app/static/js/main.9cab68ed.chunk.js.map",
+    "runtime-main.js": "/react-image-search-app/static/js/runtime-main.adf41bf3.js",
+    "runtime-main.js.map": "/react-image-search-app/static/js/runtime-main.adf41bf3.js.map",
+    "static/css/2.ab75b8d7.chunk.css": "/react-image-search-app/static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.b2e14782.chunk.js": "/react-image-search-app/static/js/2.b2e14782.chunk.js",
+    "static/js/2.b2e14782.chunk.js.map": "/react-image-search-app/static/js/2.b2e14782.chunk.js.map",
+    "index.html": "/react-image-search-app/index.html",
+    "static/css/2.ab75b8d7.chunk.css.map": "/react-image-search-app/static/css/2.ab75b8d7.chunk.css.map",
+    "static/css/main.d7c0837f.chunk.css.map": "/react-image-search-app/static/css/main.d7c0837f.chunk.css.map",
+    "static/js/2.b2e14782.chunk.js.LICENSE.txt": "/react-image-search-app/static/js/2.b2e14782.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3eb5cc9.js",
+    "static/js/runtime-main.adf41bf3.js",
     "static/css/2.ab75b8d7.chunk.css",
     "static/js/2.b2e14782.chunk.js",
     "static/css/main.d7c0837f.chunk.css",
